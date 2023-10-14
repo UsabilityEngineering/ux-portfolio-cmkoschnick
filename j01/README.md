@@ -1,4 +1,4 @@
-# Title Here
+# Personal Planner with Notion
 ## By Chloe Koschnick
 
 I have never been able to consistently use a planner for more than a few months at a time for a few specific reasons: I forget about them, I have a really difficult time finding one that meets all of my needs, and physical planners are not very easy to modify if things change. Even planner apps for my smartphone didn’t have everything I was looking for.  However, when I started college I desperately needed to find a solution for keeping track of everything between work and classes, which is how I found out about [Notion](https://www.notion.so/).  The easiest way to describe Notion is that it is almost like your own private and completely customizable website.  
