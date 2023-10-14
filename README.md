@@ -4,8 +4,8 @@ Hello! My name is Chloe. I am a CS student graduating in Spring of '24.  I've lo
 
 ## UX Team Project
 
-Coming soon.
+[Pantry Pal](https://chicostate.github.io/UX-PantryPal/)
 
 ## UX Journal
 
-[Read about my experience with Bash](j01/)
+[Read about my experience with Notion](j01/)
