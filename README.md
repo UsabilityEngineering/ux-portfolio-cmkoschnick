@@ -8,5 +8,5 @@ Hello! My name is Chloe. I am a CS student graduating in Spring of '24.  I've lo
 
 ## UX Journal
 
-[Read about my experience with Notion](j01/)
+[Read about my experience with Notion](j01/) 
 [Read about my experience with Notion - revised](j02/)
